@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WogwonSociety.ServiceLocator", "WogwonSociety.ServiceLocator\WogwonSociety.ServiceLocator.csproj", "{DEF1133B-208B-431A-B1FD-152E5D4AF3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WogwonSociety.ServiceLocator.Tests", "WogwonSociety.ServiceLocator.Tests\WogwonSociety.ServiceLocator.Tests.csproj", "{D64F63F2-5062-4255-9CE0-9B56AC7F6552}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF1133B-208B-431A-B1FD-152E5D4AF3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF1133B-208B-431A-B1FD-152E5D4AF3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF1133B-208B-431A-B1FD-152E5D4AF3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF1133B-208B-431A-B1FD-152E5D4AF3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64F63F2-5062-4255-9CE0-9B56AC7F6552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64F63F2-5062-4255-9CE0-9B56AC7F6552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64F63F2-5062-4255-9CE0-9B56AC7F6552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64F63F2-5062-4255-9CE0-9B56AC7F6552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

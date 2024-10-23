@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>WogwonSociety.ServiceLocator</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>Islati Sk</Authors>
+        <Company>Wogwon Society</Company>
+        <Description>🌙 Service Locator "Anti-Pattern" implementation.</Description>
+        <PackageTags>Service Locator, Anti-Pattern, Pattern, Dependency Injection</PackageTags>
+        <RepositoryUrl>https://www.github.com/WogwonSociety/WogwonSociety.ServiceLocator</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReleaseNotes>Lightweight. Code over convention.</PackageReleaseNotes>
+    </PropertyGroup>
+
+</Project>
